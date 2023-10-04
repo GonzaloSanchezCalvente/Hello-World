@@ -2,7 +2,7 @@
 Nuestro primer repositorio editado
 
 # comandos internos
-*cd..* vuelves al directorio anterior
-*cd .* dirrctorio actual
-*cd (nombre)* cambio de carpeta de
-*ls* lista los archivos
+- __cd..__ vuelves al directorio anterior
+- __cd .__ dirrctorio actual
+- __cd (nombre)__ cambio de carpeta 
+- __ls__ lista los archivos
